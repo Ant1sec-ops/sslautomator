@@ -1,3 +1,5 @@
+#Author: Subhash Paudel
+
 #!/bin/bash
 
 # Check if input file is provided
